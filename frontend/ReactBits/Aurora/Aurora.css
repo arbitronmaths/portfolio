@@ -1,0 +1,11 @@
+/*
+	Installed from https://reactbits.dev/default/
+*/
+
+.aurora-container {
+  width: 100%;
+  min-width: 1390px;
+  max-width:1400px;  /* or any preferred max width */
+  height: 200%;
+  margin: 0 auto;
+}
