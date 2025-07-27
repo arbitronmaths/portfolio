@@ -7,7 +7,7 @@ const Contact = () => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
-  const API_URL = "http://localhost:3000/users";
+  // const API_URL = "http://localhost:3000/users";
 
   const fetchUsers = async () => {
     try {
