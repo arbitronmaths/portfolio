@@ -27,7 +27,7 @@ const About = () => {
             <span className="text-lg">🎓</span>
             <p>
               <span className="font-semibold text-gray-800 dark:text-gray-200">
-                2019-2023:
+                2023-2027:
               </span>{" "}
               <span className="text-gray-600 dark:text-gray-400">
                 B.Tech in Electronics and Communication Engineering
@@ -39,7 +39,7 @@ const About = () => {
             <span className="text-lg">📚</span>
             <p>
               <span className="font-semibold text-gray-800 dark:text-gray-200">
-                2017-2019:
+                2020-2022:
               </span>{" "}
               <span className="text-gray-600 dark:text-gray-400">
                 12th in CBSE Board
@@ -51,7 +51,7 @@ const About = () => {
             <span className="text-lg">🏫</span>
             <p>
               <span className="font-semibold text-gray-800 dark:text-gray-200">
-                2015-2017:
+                2018-2020:
               </span>{" "}
               <span className="text-gray-600 dark:text-gray-400">
                 10th in CBSE Board

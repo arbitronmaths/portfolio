@@ -1,5 +1,5 @@
 import React from 'react';
-
+import portfolio from './portfolio.jpg';
 const Hero = () => {
   return (
     <section className="py-20 md:py-16 bg-gray-50 dark:bg-gray-900" id="introduction">
@@ -8,7 +8,7 @@ const Hero = () => {
         {/* Profile Image */}
         <div className="flex-shrink-0 px-4">
           <img
-            src="https://www.tvhland.com/vignette/tag/202201/61ddb49de0e1e.webp" // Replace with your image path
+            src={portfolio} // Replace with your image path
             alt="Utakarsh"
             className="w-55 h-55 rounded-full border-8 border-black shadow-lg object-cover"
           />
